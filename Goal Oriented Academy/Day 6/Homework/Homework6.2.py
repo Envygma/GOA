@@ -1,0 +1,7 @@
+name = input("Please write your name: ")
+surname = input("Please write your surname: ")
+age = input("Please write your age: ")
+Email = input("Please write your Email: ")
+Password_1 = input("Please write your password: ")
+Password_2 = input("Please repeat your password: ")
+print("WELCOME!!!" , name , surname , "you successfully signed up on our virtual platform!!!" , "Login: " , Email , "Password: " , Password_1 , "PLEASE DO NOT SHARE YOUR PRIVATE INFORMATION ON THE VIRTUAL PLATFORM!")
